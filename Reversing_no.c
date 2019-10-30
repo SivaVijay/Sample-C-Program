@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int a,reverse;
+int a,reverse=0;
 printf("enter the number");
 scanf("%d\n",&a);
 while(a>0)
